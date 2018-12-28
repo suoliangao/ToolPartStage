@@ -1,0 +1,12 @@
+msg.craft_tool_part.deny=You can not craft the %s at this time. Further progression is needed.
+msg.replace_tool_part.deny=You can not use the %s in your tool at this time. Further progression is needed.
+msg.cmdusage.line1=Added by Tool Part Stage
+msg.cmdusage.line2=dump toolpart(part)|material(mat)
+msg.cmdusage.line3=- toolpart: Dump all registered tool parts.
+msg.cmdusage.line4=- material: Dump all registered tinker materials.
+msg.dump_success.tool_part=All registered tinker tool parts have been dumped to file 
+msg.dump_success.material=All registered tinker materials have been dumped to file 
+txt.dump.tool_part.line1=# Tool Part Name:[The String you need]
+txt.dump.tool_part.line2=# just copy the string in the brackets, no brackets
+txt.dump.material.line1=# Material Name:[The String you need]
+txt.dump.material.line2=# just copy the string in the brackets, no brackets

@@ -1,0 +1,16 @@
+[
+{
+  "modid": "toolpartstage",
+  "name": "Tool Part Stage",
+  "description": "Tool Part Stage allows modpack authors lock up tinker's tool parts associate with stages.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["SuoLianGao"],
+  "credits": "Mojang stuffs who bring us the game, the author of Forge, GameStages, CraftTweaker, and those guys who make online modding tutorials.",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]

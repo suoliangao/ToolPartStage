@@ -1,0 +1,12 @@
+msg.craft_tool_part.deny=你现在不能制作%s，你需要更多的进展
+msg.replace_tool_part.deny=你现在不能使用%s，你需要更多的进展
+msg.cmdusage.line1=由Tool Part Stage添加
+msg.cmdusage.line2=dump toolpart(part)|material(mat)
+msg.cmdusage.line3=- toolpart: 导出所有的部件名称
+msg.cmdusage.line4=- material: 导出所有的材料名称
+msg.dump_success.tool_part=所有的部件名称已经被导出到文件
+msg.dump_success.material=所有的材料名称已经被导出到文件
+txt.dump.tool_part.line1=# 部件名称:[你需要复制的东西]
+txt.dump.tool_part.line2=# 只需要复制括号里的内容，请不要复制括号
+txt.dump.material.line1=# 材料名称:[你需要复制的东西]
+txt.dump.material.line2=# 只需要复制括号里的内容，请不要复制括号
